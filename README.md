@@ -17,8 +17,8 @@ I am a 30+ year old programmer with main skills in Java, Spring Boot and backend
 <hr>
 <h3>Connect with me: </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tom-ganemo-10523721a/" target="_blank"><img align="center" src="https://www.cv-mallen.se/app/uploads/2018/05/guide-till-linkedin.jpg" alt="Tom" height="40" width="70" /></a>
-<a href="mailto: tom.ganemo1987@gmail.com" target="_blank"><img align="center" src="https://blog.logomyway.com/wp-content/uploads/2021/02/gmail-logo.jpg" alt="Tom" height="40" width="100" /></a>
+<a href="https://www.linkedin.com/in/tom-ganemo-10523721a/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://www.cv-mallen.se/app/uploads/2018/05/guide-till-linkedin.jpg" alt="Tom" height="40" width="70" /></a>
+<a href="mailto: tom.ganemo1987@gmail.com" target="_blank" rel="noreferrer noopener"><img align="center" src="https://blog.logomyway.com/wp-content/uploads/2021/02/gmail-logo.jpg" alt="Tom" height="40" width="100" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools 🛠 🔧:</h3>
