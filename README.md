@@ -5,7 +5,7 @@
 
 <h3>About me 🧐:</h3>
 <p>
-I am a 30+ year old programmer with main skills in Java, Spring Boot and backend solutions. In a few weeks I will graduate from a two year long technical education at Nackademin AB as a Software Developer focusing on Java. The education has provided me with a good toolset for taking on various programming tasks with everything from planning and organizing to developing a product. On top of that I have also familiarized myself with cloud solutions for deployment using Google Cloud Services where I also obtained the Google’s Associate Cloud Engineer Certificate.
+I am a 30+ year old programmer with main skills in Java, Spring Boot and backend solutions. In a few weeks I will graduate from a two year long technical education at Nackademin AB as a Software Developer focusing on Java. The education has provided me with a good toolset for taking on various programming tasks with everything from planning and organizing to developing a product. On top of that I have also familiarized myself with cloud solutions for deployment using Google Cloud Services where I also obtained the Google’s Associate Cloud Engineer Certificate 🏅. 
 </p>
 <p>📍 Living in Stockholm Sweden </p>
 <hr>
@@ -27,6 +27,7 @@ I am a 30+ year old programmer with main skills in Java, Spring Boot and backend
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intellij-idea" width="40" height="40"></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://yaml.org/" target="_blank" rel="noreferrer"><img src="pictures/YML.png" alt="YAML" width="40" height="40"/></a>
 <a href="https://cloud.google.com/certification/cloud-engineer" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a>
 <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 <a href="https://maven.apache.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1280px-Apache_Maven_logo.svg.png" alt="maven" width="60" height="40"/></a>
