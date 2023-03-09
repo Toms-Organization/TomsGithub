@@ -11,18 +11,18 @@ I am a 30+ year old programmer with main skills in Java, Spring Boot and backend
 <hr>
 
 <h3>Education 🏤:</h3>
-<ul>📚 Master's Degree Stockholm University - Teaching Degree majoring in Physical Education and English</ul>
+<ul>📚 Master Degree Stockholm University - Teaching Degree majoring in Physical Education and English</ul>
 <ul>📚 2-year Technical Degree Nackademin AB - Technical Degree majoring in Java</ul>
 <ul>📝 Google Associate Cloud Engineer - Setting up and working with cloud solutions in Google Cloud</ul>
 <hr>
-<h3>Connect with me: </h3>
+<h3 align="left">Feel free to connect with me or ask me any questions!😁 </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tom-ganemo-10523721a/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://www.cv-mallen.se/app/uploads/2018/05/guide-till-linkedin.jpg" alt="Tom" height="40" width="70" /></a>
 <a href="mailto: tom.ganemo1987@gmail.com" target="_blank" rel="noreferrer noopener"><img align="center" src="https://blog.logomyway.com/wp-content/uploads/2021/02/gmail-logo.jpg" alt="Tom" height="40" width="100" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools 🛠 🔧:</h3>
-<h3>
+<h3 >
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intellij-idea" width="40" height="40"></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
@@ -50,11 +50,6 @@ I am a 30+ year old programmer with main skills in Java, Spring Boot and backend
 <hr>
 <h3>A Few projects 💼 : </h3>
 <p>⭐Fullstack Application - Using microservices (React.js, Spring, MySQL) 👉 <a href="https://github.com/Toms-Organization/Fullstack-Application" target="_blank" rel="noreferrer"> Find Project here</a></p>
-<p>⭐Stand alone API backend - Java, Spring Boot and Swagger 👉 <a href=" EMPTY URL! " target="_blank" rel="noreferrer"> Find Project here</a></p>
-<p>⭐Simple deployment to GCP - Java Spring Boot and Cloud build + Cloud Run 👉 <a href=" EMPTY URL! " target="_blank" rel="noreferrer">  Find Project here</a> </p>
+<p>⭐Stand alone API backend - Java, Spring Boot and Swagger 👉 <a href="https://github.com/Toms-Organization/standalone-simpleapi-backend" target="_blank" rel="noreferrer"> Find Project here</a></p>
+<p>⭐Simple deployment to GCP - Java Spring Boot and Cloud build + Cloud Run 👉 <a href="https://github.com/Toms-Organization/GithubCICD" target="_blank" rel="noreferrer">  Find Project here</a> </p>
 <hr>
-
-💬📍📝 📧
-💼
-⭐
-✨ 
