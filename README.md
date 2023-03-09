@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TomIsLearningJava&label=Profile%20views&color=0e75b6&style=flat" alt="TomIsLearningJava" />   </p>
 <h1 align="center">Hi I'm Tom 👋 and welcome to my Github page!</h1>
 <hr>
-<h3 align="center">ⓘ This is just some information about my self and my public repository here on Github!</h3>
-<br>
+<h4 align="center">ⓘ This is just some information about my self and where you can find more information here on Github!</h4>
+
 <h3>About me 🧐:</h3>
 <p>
 I am a 30+ year old programmer with main skills in Java, Spring Boot and backend solutions. In a few weeks I will graduate from a two year long technical education at Nackademin AB as a Software Developer focusing on Java. The education has provided me with a good toolset for taking on various programming tasks with everything from planning and organizing to developing a product. On top of that I have also familiarized myself with cloud solutions for deployment using Google Cloud Services where I also obtained the Google’s Associate Cloud Engineer Certificate.
@@ -28,6 +28,8 @@ I am a 30+ year old programmer with main skills in Java, Spring Boot and backend
 <a href="https://spring.io/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://cloud.google.com/certification/cloud-engineer" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a>
+<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+<a href="https://maven.apache.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1280px-Apache_Maven_logo.svg.png" alt="maven" width="60" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
@@ -46,11 +48,12 @@ I am a 30+ year old programmer with main skills in Java, Spring Boot and backend
 </h3>
 <hr>
 <h3>A Few projects 💼 : </h3>
-<li>Fullstack Application - Using microservices (React.js, Spring, MySQL)</li>
-<li>Stand alone API backend - Java, Spring Boot and Swagger</li>
-<li>Simple deployment to GCP - Java Spring Boot and Cloud build + Cloud Run</li>
-
+<p>⭐Fullstack Application - Using microservices (React.js, Spring, MySQL) 👉 <a href=" EMPTY URL! " target="_blank" rel="noreferrer"> Find Project here</a></p>
+<p>⭐Stand alone API backend - Java, Spring Boot and Swagger 👉 <a href=" EMPTY URL! " target="_blank" rel="noreferrer"> Find Project here</a></p>
+<p>⭐Simple deployment to GCP - Java Spring Boot and Cloud build + Cloud Run 👉 <a href=" EMPTY URL! " target="_blank" rel="noreferrer">  Find Project here</a> </p>
 <hr>
 
 💬📍📝 📧
-💼 
+💼
+⭐
+✨ 
